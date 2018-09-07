@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/ssh.iml" filepath="$PROJECT_DIR$/test/ssh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/sshe.iml" filepath="$PROJECT_DIR$/test/sshe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study123/struts1.iml" filepath="$PROJECT_DIR$/study123/struts1.iml" />
     </modules>
   </component>
 </project>
