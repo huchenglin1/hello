@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/test/ssh.iml" filepath="$PROJECT_DIR$/test/ssh.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/sshe.iml" filepath="$PROJECT_DIR$/test/sshe.iml" />
       <module fileurl="file://$PROJECT_DIR$/study123/struts1.iml" filepath="$PROJECT_DIR$/study123/struts1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study123/study.iml" filepath="$PROJECT_DIR$/study123/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study123/sturts.iml" filepath="$PROJECT_DIR$/study123/sturts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiu/xiu.iml" filepath="$PROJECT_DIR$/xiu/xiu.iml" />
     </modules>
   </component>
 </project>

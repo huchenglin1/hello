@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="struts" />
         <module name="struts1" />
+        <module name="xiu" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -15,7 +16,10 @@
       <module name="struts1" target="1.7" />
       <module name="study" target="1.5" />
       <module name="study123" target="1.7" />
+      <module name="stutrs" target="1.7" />
       <module name="test" target="1.7" />
+      <module name="xiu" target="1.7" />
+      <module name="yuhu" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
